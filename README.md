@@ -78,3 +78,4 @@ next.config.mjs
 ```zsh
   npm run build
 ```
+- hosted on ipfs - ipfs://QmPR1Kn8UBZkWfWnQm3SX12nF9X53jMqUaVrVEyMwZN362
