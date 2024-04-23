@@ -62,3 +62,19 @@ export default function Home() {
 }
 
 ```
+
+- To run the project in dev:
+```zsh
+  npm run dev
+```
+- To host, make sure to export your build by the following config:
+next.config.mjs
+```js
+  const nextConfig = {
+    output: "export",
+}
+```
+- To build:
+```zsh
+  npm run build
+```
