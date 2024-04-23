@@ -79,3 +79,6 @@ next.config.mjs
   npm run build
 ```
 - hosted on ipfs - ipfs://QmPR1Kn8UBZkWfWnQm3SX12nF9X53jMqUaVrVEyMwZN362
+
+- ipns publish : 
+https://ipfs.io/ipns/k51qzi5uqu5dl9ifisqqajtnbu00ik6i3xxwsn154tpml8ti2642q27k3vf2fs
