@@ -11,7 +11,7 @@ export default function Home() {
                 Decentralized Lottery
                 <ConnectButton moralisAuth={false} />
                 <NotificationProvider>
-                    <LotteryEntrance />
+                    <LotteryEntrance className="border-b-2 btn-blue" />
                 </NotificationProvider>
             </div>
         </main>
